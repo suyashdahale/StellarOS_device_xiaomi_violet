@@ -10,20 +10,12 @@
     "target_path": "kernel/xiaomi/violet",
     "branch":"eleven",
     "remote":"pixel-devices"
-<<<<<<< HEAD
-  },
-  {
-    "repository": "vendor_xiaomi-firmware",
-    "target_path": "vendor/xiaomi-firmware",
-    "branch":"eleven",
-    "remote":"pixel-devices-blobs"
   },
   {
     "repository": "dasshubham762/packages_apps_CameraGo",
     "target_path": "packages/apps/CameraGo",
     "branch":"eleven",
     "remote":"github"
-=======
->>>>>>> parent of 8e04493d... violet: Remove modem assertion and move to in-built firmware
+
   }
 ]
